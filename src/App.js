@@ -1,8 +1,9 @@
+import { Dashboard } from 'src/pages/Dashboard.jsx';
 
 function App() {
   return (
     <div>
-      <h1>Hello, World!</h1>
+      <Dashboard />
     </div>
   );
 }
